@@ -11,5 +11,5 @@ length = float(input("he dh: "))
 width = float(input(e rectangle: "))
 
 
-area = calculate_area(length, width)
-print("The area of the rectangle is:", area)
+area = calculate_are(length, width)
+print("Th the rectangle is:", area)
