@@ -8,7 +8,7 @@ def calculate_area(length, width):
 
 
 length = float(input("he dh: "))
-width = float(input("Ef the rectangle: "))
+width = float(input(e rectangle: "))
 
 
 area = calculate_area(length, width)
