@@ -6,7 +6,7 @@ def calculate_area(length, width):
     return area
 
 
-length = float(input("Enter the length of the ikm : "))
+length = float(input("length of the ikm : "))
 width = float(input("Enter the of the rectangle: "))
 
 area = calculate_area(length, width)
