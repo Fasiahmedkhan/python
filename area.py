@@ -7,7 +7,7 @@ def calculate_area(length, width):
 
 
 <<<<<<< HEAD
-length = float(input("Enter the  the dh: "))
+length = float(input("he dh: "))
 width = float(input("En of the rectangle: "))
 =======
 length = float(input("length of the ikm : "))
